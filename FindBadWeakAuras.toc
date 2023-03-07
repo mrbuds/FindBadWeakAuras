@@ -1,0 +1,6 @@
+## Interface: 100005
+## Title: FindBadWeakAuras
+## Version: 0.1
+## Author: Buds
+
+FindBadWeakAuras.lua
